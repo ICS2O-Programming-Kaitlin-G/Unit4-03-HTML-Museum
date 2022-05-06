@@ -1,1 +1,2 @@
 # Unit4-03-HTML-Museum
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-Kaitlin-G/Unit4-03-HTML-Museum/actions/workflows/main.yml/badge.svg)](https://github.com/ICS2O-Programming-Kaitlin-G/Unit4-03-HTML-Museum/actions)
