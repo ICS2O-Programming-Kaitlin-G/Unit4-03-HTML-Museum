@@ -1,7 +1,7 @@
 /* Created by: Katie
 * Created on: May 2022
 * This CSS file defines the style for index.html
-* ICS2O-Unit4-03-HTML-Movie
+* ICS2O-Unit4-04-HTML-Museum
 */
 
 body {
@@ -51,6 +51,11 @@ p {
 }
 
 #museum-price {
+  background-color: rgb(250, 242, 161);
+  color: rgb(64, 31, 62);
+}
+
+#error {
   background-color: rgb(250, 242, 161);
   color: rgb(64, 31, 62);
 }
