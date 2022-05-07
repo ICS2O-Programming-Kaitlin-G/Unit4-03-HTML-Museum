@@ -1,0 +1,56 @@
+/* Created by: Katie
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit4-03-HTML-Movie
+*/
+
+body {
+  background: repeating-linear-gradient(
+    45deg,
+    #759AAB,
+    #759AAB 10px,
+    #453F78 10px,
+    #453F78 20px,
+    #3F2E56 20px,
+    #3F2E56 30px,
+    #453F78 30px,
+    #453F78 40px
+  );
+}
+
+h1 {
+  color: rgb(64, 31, 62);
+  background-color: rgb(250, 242, 161);
+  border-radius: 15px;
+}
+
+p {
+  background-color: rgb(64, 31, 62);
+  color: rgb(250, 242, 161);
+  padding: 5px;
+}
+
+#day-color {
+  background-color: rgb(64, 31, 62);
+  color: rgb(250, 242, 161);
+}
+
+#day {
+  background-color: rgb(64, 31, 62);
+  color: rgb(250, 242, 161);
+}
+
+.user-age {
+  color: rgb(250, 242, 161);
+  background-color: rgb(64, 31, 62);
+}
+
+#user-age {
+  color: rgb(250, 242, 161);
+  background-color: rgb(64, 31, 62);
+}
+
+#museum-price {
+  background-color: rgb(250, 242, 161);
+  color: rgb(64, 31, 62);
+}
